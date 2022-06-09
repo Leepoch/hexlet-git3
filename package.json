@@ -1,0 +1,20 @@
+{
+  "name": "hexlet-git3",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "No code no pain experiment with amend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leepoch/hexlet-git3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Leepoch/hexlet-git3/issues"
+  },
+  "homepage": "https://github.com/Leepoch/hexlet-git3#readme"
+}
